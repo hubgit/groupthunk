@@ -1,0 +1,5 @@
+table { empty-cells:show; }
+td { vertical-align:top; border-bottom: 1px solid #ddd; padding: 5px 0; }
+a { text-decoration: none; }
+.user { color: #777; }
+.quote { margin-bottom: 5px; }
